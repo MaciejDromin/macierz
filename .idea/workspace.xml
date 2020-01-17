@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8419a16-fcf9-42ce-8282-7a70ded631b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Macierz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Macierz/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Macierz/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Macierz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macierz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,9 @@
       <option name="presentableId" value="Default" />
       <updated>1579186901678</updated>
       <workItem from="1579186904282" duration="1305000" />
-      <workItem from="1579188224775" duration="6153000" />
+      <workItem from="1579188224775" duration="6795000" />
+      <workItem from="1579290397107" duration="8000" />
+      <workItem from="1579299990825" duration="960000" />
     </task>
     <servers />
   </component>
@@ -76,38 +77,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1579194532686">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1579300953239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579194532686" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1579194532686">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579300953239" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1579300953239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579194532686" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1579194532686">
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579300953239" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1579300953239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579194532686" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1579194532686">
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579300953239" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1579300953239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579194532686" />
-    <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1579194496093">
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579300953239" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1579300953047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579194496093" />
-    <state width="1340" height="328" key="GridCell.Tab.1.center" timestamp="1579194496093">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579300953047" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1579300953047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579194496093" />
-    <state width="1340" height="328" key="GridCell.Tab.1.left" timestamp="1579194496093">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579300953047" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1579300953047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579194496093" />
-    <state width="1340" height="328" key="GridCell.Tab.1.right" timestamp="1579194496093">
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579300953047" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1579300953047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579194496093" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579300953047" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579186908571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -118,10 +119,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Macierz.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="3" />
+          <line>39</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Macierz$Main.ic" NAME="Main Coverage Results" MODIFIED="1579300777190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

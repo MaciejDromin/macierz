@@ -36,7 +36,7 @@ public class Main {
                 System.out.println("Podaj "+(j+1)+" parametr "+(i+1)+" rzędu");
                 BufferedReader param = new BufferedReader(new InputStreamReader(System.in));
                 try {
-                    ar.add(j,Integer.parseInt(param.readLine()));
+                    ar.add(j,Float.parseFloat(param.readLine()));
                 } catch (Exception e){
                 }
             }
