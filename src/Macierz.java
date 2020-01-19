@@ -30,19 +30,14 @@ public class Macierz {
         }
         for(int i = 0; i<size-1;i++){
             float firstInRow = rows.get(i).get(i);
-            //System.out.print(firstInRow);
             for(int j = i+1;j<size;j++){
                 float nextInRow = rows.get(j).get(i);
                 if(nextInRow!=0){
                     float ws = wspolczynnik(firstInRow, nextInRow);
                     for(int n = i;n<rows.get(i).size();n++){
-                        //System.out.print(rows.get(j).get(n));
                         rows.get(j).set(n, rows.get(j).get(n)+(ws*rows.get(i).get(n)));
-                        //System.out.print(rows.get(j).get(n));
-                        //System.out.println();
                     }
                 }
-                //System.out.println("");
             }
         }
     }
@@ -50,7 +45,6 @@ public class Macierz {
     private float wspolczynnik(float x, float y){
         float z;
         z = -y/x;
-        //int result = y+z*x;
         return z;
     }
 

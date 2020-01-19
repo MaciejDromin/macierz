@@ -7,21 +7,14 @@ public class Main {
     private static int size;
     public static void main(String[] args){
         drawMenu();
-        //System.out.println(Integer.compare(1,4));
     }
 
     private static void drawMenu(){
         System.out.println("Witaj w programie do liczenia macierzy!");
         System.out.println("Jak duża jest twoja macierz?");
-        System.out.println("2x2 [2]");
-        System.out.println("3x3 [3]");
-        System.out.println("4x4 [4]");
-        System.out.println("5x5 [5]");
-        System.out.println("6x6 [6]");
-        System.out.println("7x7 [7]");
-        System.out.println("8x8 [8]");
-        System.out.println("9x9 [9]");
-        System.out.println("10x10 [10]");
+        for(int i = 2;i<=10;i++){
+            System.out.println(i+"x"+i+" "+"["+i+"]");
+        }
         System.out.println("Stworzone przez Macieja Lisowskiego");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         try {
